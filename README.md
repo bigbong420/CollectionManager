@@ -1,7 +1,8 @@
 # Music Collection Manager
 
 A JavaSwing application for cataloguing, grading, and sorting vinyl records, CDs, and cassettes.
-You can view a demo of the program and test inputs at: https://youtu.be/7W-CENAy4A0
+
+You can view a demo of the program and test cases at: https://youtu.be/7W-CENAy4A0
 
 ## Features
 
@@ -87,7 +88,7 @@ The test suite runs 23 tests covering:
 
 After tests complete, the GUI launches with demo data for visual testing.
 
-## Goldmine Grading Scale
+## Goldmine Grading Scale (for reference purposes)
 
 | Grade | Meaning |
 |-------|---------|
